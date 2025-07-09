@@ -3,3 +3,5 @@
 - Заходим в Roblox Studio  
 - Нажимаем New Experience
 ![Example](img/lessons_01_01.png)
+- Теперь разберём из каких частей состоит окно Roblox Studio и для чего они нужны (разберём не всё и не сильно подробно)  
+![Example](img/lesson_01_02.png)
